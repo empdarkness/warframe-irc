@@ -32,7 +32,7 @@ The very first character in the hexadecimal string will tell you how many positi
 |C|2+|
 
 Now onto how to read the stats, this documentation will cover how to read 3+1-, however it should be very easy to apply this to the others.
-The hexadecimal for the riven above is `F7 3E BD 5B 97 13 F6 99 41 80 BD 55 7B 47 A3 D6 89 16 3C 6A 6B 4A 00 00`.
+<br>The hexadecimal for the riven above is `F7 3E BD 5B 97 13 F6 99 41 80 BD 55 7B 47 A3 D6 89 16 3C 6A 6B 4A 00 00`.
 <br>The bold portions will be where each stat name is located, the 7 chars after each stat is the stat value.
 <br> F**7 3**E BD 5B 97 **13** F6 99 41 8**0 B**D 55 7B 47 **A3** D6 89 16 3C 6A 6B 4A 00 00
 <br>Through this, we should get the following result.
