@@ -1,9 +1,10 @@
 # Warframe IRC Riven Research
 The way rivens are linked throughout the IRC chat is through specialized strings. This string is complicated and messy, however it is easy to read patterns that occur.
+<br>A quick and easy way to obtain one of these strings is to post one to chat and check your EE.log, there should be an outbound message containing the string.
 
 For example:
+String: `[OMG-LotusRifleRandomModRare:9z69W5cT9plBgL1Ve0ej1okWPGprSgAA]`
 ```
-[OMG-LotusRifleRandomModRare:9z69W5cT9plBgL1Ve0ej1okWPGprSgAA]
 Mutalist Cernos Acri-visicron
 203.4 Damage
 164.4 Critical Damage
