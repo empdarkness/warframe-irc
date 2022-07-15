@@ -79,7 +79,7 @@ When cross-referencing a bunch of rivens to get the stat names, they will vary a
         weapon = f"{riven[18][1]} {riven[19]} {riven[20]}"
         polarity = f"**{riven[21][0]}**{riven[21][1]}"
         rank = f"{riven[21][0]}**{riven[21][1]}**"
-        rolls = f"**{riven[22]} {riven[23][0]}**{riven[23][1]}"
+        rolls = f"{riven[22]} {riven[23]}"
         string = f"Hex: `{' '.join(riven)}`"
         string+=f"\nType: {type}"
         string+=f"\nStat 1: **{stat_1}** {stat_1v}"
