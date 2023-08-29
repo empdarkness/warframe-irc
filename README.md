@@ -2,6 +2,11 @@
 The purpose of this document is to even out the playing field on rivens within trade chats of all platforms and possibly get it patched.
 The following way to get into IRC has been reported weeks in advance of this document, but there have been no attempts at patching it. ¯\\_(ツ)_/¯
 
+# Vulnerability
+What this allows you to do is access all chats within the game in all platforms. You can access squad chat, clan chat, region chat (ew), trade chat.
+<br>You can see the account ids of everyone connecting to chat, their masked IP, and platforms.
+<br>This allows you to detect name changes if a person were to ever connect to a chat you're watching.
+
 # Getting Into IRC
 The steps here may be rough, but generally it works.
 <br>The process with the auth token and commands has to be somewhat fast, so the token does not expire.
