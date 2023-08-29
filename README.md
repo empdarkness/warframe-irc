@@ -65,7 +65,9 @@ polarity = pol.get(riven[170:174])
 rolls = int(riven[178:190], 2)
 weapon = riven[157:165]
 ```
-You can "grade" rivens by passing the stat value through this function.
+New weapons and stats can and will shift existing data, so keep that in mind.
+
+<br>You can "grade" rivens by passing the stat value through this function.
 ```
 def btd(binary):
 	dec = int(binary, 2)
