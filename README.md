@@ -23,7 +23,7 @@ The steps here may be rough, but generally it works.
 14. You're now connected and have free reign.
 
 # Reading Riven Mods
-The way rivens are linked throughout the IRC chat is through specialized strings. This string is complicated and messy, however it is easy to read patterns that occur.
+The way rivens are linked throughout the IRC chat is through specialized strings.
 <br>A quick and easy way to obtain one of these strings is to post one to chat and check your EE.log, there should be an outbound message containing the string.
 
 For example: `[OMG-LotusRifleRandomModRare:9z69W5cT9plBgL1Ve0ej1okWPGprSgAA]`
