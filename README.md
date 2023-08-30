@@ -11,7 +11,7 @@ What this allows you to do is access all chats within the game in all platforms.
 The steps here may be rough, but generally it works.
 <br>The process with the auth token and commands has to be somewhat fast, so the token does not expire.
 1. Clear warframe cache files to wipe the "saved" ban from previous attempts.
-2. Modify UUID in windows registry and connect with vpn for safe measure.
+2. Connect with vpn for safe measure.
 3. Make 2 accounts through vpn. (Emails generally are outlook or something popular)
 <br>Account 1 will be the "sacrifice" account used to generating an IRC password for Account 2.
 4. Do the tutorial so you're in ship on Account 1.
