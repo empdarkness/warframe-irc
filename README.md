@@ -1,7 +1,7 @@
 # Preface
 The purpose of this document is to even out the playing field on rivens within trade chats of all platforms and possibly get it patched.
 The following way to get into IRC has been reported weeks in advance of this document, but there have been no attempts at patching it. ¯\\_(ツ)_/¯
-
+Credits: [rRedLim](https://github.com/rRedLim)
 # Vulnerability
 What this allows you to do is access all chats within the game in all platforms. You can access squad chat, clan chat, region chat (ew), trade chat.
 <br>You can see the account ids of everyone connecting to chat, their masked IP, and platforms.
